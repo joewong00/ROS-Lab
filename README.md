@@ -35,7 +35,12 @@ catkin_make
 source ~/catkin_ws/devel/setup.bash
 ```
 
-5. Launch python file package in respective lab
+5. Make _every_ python file executable
+```
+chmod a+x ~/catkin_ws/src/lab1/scripts/<YOUR_SCRIPT>.py
+```
+
+6. Launch python file package in respective lab
 ```
 roslaunch lab1 lab1_closed.launch
 roslaunch lab1 lab1_open.launch
