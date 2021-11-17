@@ -1,5 +1,5 @@
 # ROS-Lab
-Basic ROS lab tasks implemented in Python using ROS-Melodic.
+Basic Robotic Operating System (ROS) lab tasks implemented in Python using ROS-Melodic.
 
 ### Environment
 - Ubuntu 18.04LTS 64bit
