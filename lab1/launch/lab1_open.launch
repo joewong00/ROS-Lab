@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
 <launch>
   <include file="$(find turtlebot3_gazebo)/launch/turtlebot3_empty_world.launch"/>
-  <node pkg='minitask1' type='turtlebotdriving.py' name='movesquare' output='screen' />
+  <node pkg='lab1' type='openloop.py' name='turtlebotdriving' output='screen' />
 </launch>
