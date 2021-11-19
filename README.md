@@ -9,7 +9,7 @@ Basic ROS lab tasks implemented in Python using ROS-Melodic.
 ### Labs
 - Lab1: Square Drawing Robot in Gazebo
 - Lab2: Obstacle Avoidance and Random Walk
-- Lab3: Coming soon
+- Lab3: Use Computer Vision to Move Towards Green Objects
 - Lab4: Coming soon
 
 ### To Run

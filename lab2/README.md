@@ -1,6 +1,9 @@
 # Obstacle Avoidance and Random Walking
 
 ## Multiple Behaviours Robot
+
+![](../gif/obstacle_avoidance.gif)
+
 1. Obstacle Avoidance : When robot is faced with an obstacle closer than 0.5m within 45 degree angle of field, it will stops and rotate until there is no obstacle in close distance.
 2. Random Walking : When there is no obstacle in close distance, the robot will perform random walking, where it moves forward for 3m, then randomly rotates into different direction and continues random walking.
 
@@ -13,5 +16,3 @@
   - front-right obstacle
   - front obstacle
   - unknown case
-
-![](../gif/obstacle_avoidance.gif)
