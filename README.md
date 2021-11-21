@@ -46,4 +46,6 @@ roslaunch lab1 lab1_closed.launch
 roslaunch lab1 lab1_open.launch
 ```
   
-
+### License
+This project is licensed under the MIT License - see the LICENSE file for details.
+If you want to cooperate or use this project, please contact : joewong00@gmail.com 
