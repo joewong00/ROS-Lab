@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <launch>
-  <include file="$(find turtlebot3_gazebo)/launch/turtlebot3_home.launch"/>
-  <include file="$(find turtlebot3_teleop)/launch/keyboard_teleop.launch"/>
+  <include file="$(find turtlebot3_gazebo)/launch/turtlebot3_house.launch"/>
+  <include file="$(find turtlebot3_teleop)/launch/turtlebot3_teleop_key.launch"/>
   <node pkg='lab4' type='occupancy_grid.py' name='behaviours' output='screen' />
 </launch>

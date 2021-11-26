@@ -11,6 +11,7 @@ Basic Robotic Operating System (ROS) lab tasks implemented in Python using ROS-M
 - Lab2: Obstacle Avoidance and Random Walk
 - Lab3: Use Computer Vision to Move Towards Green Objects
 - Lab4: Create Occupancy Grid Map
+- Lab5: Coming Soon
   
 ### To Run
 1. Clone this repository
